@@ -37,6 +37,7 @@ a:hover {
     -o-background-size: cover;
     background-size: cover;
     position: relative;
+
 }
 
 .bloc .container {
@@ -771,20 +772,20 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #C64A10;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #C64A10;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #C64A10!important;
     color: #FFFFFF!important;
 }
 
